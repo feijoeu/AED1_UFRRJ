@@ -15,7 +15,7 @@ int main () {
     }
 
     for (int i = 0; i < quant_el; i++) {
-        printf("O valor do elemento de posição %d é: %d\n", i, v[i]);
+        printf("O valor do elemento de posicao %d é: %d\n", i, v[i]);
     }
 
     free(v);    
